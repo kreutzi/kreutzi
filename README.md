@@ -13,5 +13,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="https://github-readme-stats.vercel.app/api?username=Kreutzi&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" align="left">
-<img src="https://cheesits456-readme-stats.vercel.app/api/top-langs?username=kreutzi&layout=compact&card_width=275&theme=github_dark&langs_count=10&hide=c,meson,makefile,m4&exclude_repo=github-readme-stats,BitJanitor,github-activity-readme,fancy-git,challengeBot" align="left">
+<p align="center">
+<img src="https://github-readme-streak-stats-fyclg7hvg-trinib.vercel.app/?user=kreutzi&card_width=500&">
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Kreutzi&card_width=500&show_icons=true">
+
+<p align="center">
+<img src="https://cheesits456-readme-stats.vercel.app/api/top-langs?username=kreutzi&layout=compact&card_width=450&langs_count=10&hide=c,meson,makefile,m4&exclude_repo=github-readme-stats,BitJanitor,github-activity-readme,fancy-git,challengeBot" >
