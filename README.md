@@ -14,10 +14,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p align="center">
-<img src="https://github-readme-streak-stats-fyclg7hvg-trinib.vercel.app/?user=kreutzi&card_width=500&">
+<img src="https://media.giphy.com/media/IP7sarl7C5lSFCw9rG/giphy.gif"  width="100px" height="100px"></p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Kreutzi&card_width=500&show_icons=true">
+<img src="https://github-readme-streak-stats-fyclg7hvg-trinib.vercel.app/?user=kreutzi&card_width=500&"></p>
 
 <p align="center">
-<img src="https://cheesits456-readme-stats.vercel.app/api/top-langs?username=kreutzi&layout=compact&card_width=450&langs_count=10&hide=c,meson,makefile,m4&exclude_repo=github-readme-stats,BitJanitor,github-activity-readme,fancy-git,challengeBot" >
+<img src="https://github-readme-stats.vercel.app/api?username=Kreutzi&card_width=500&show_icons=true"></p>
+
+<p align="center">
+<img src="https://cheesits456-readme-stats.vercel.app/api/top-langs?username=kreutzi&layout=compact&card_width=450&langs_count=10&hide=c,meson,makefile,m4&exclude_repo=github-readme-stats,BitJanitor,github-activity-readme,fancy-git,challengeBot"></p>
