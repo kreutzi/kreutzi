@@ -17,8 +17,6 @@ Here are some ideas to get you started:
 <p align="center">
 <img src="https://media.giphy.com/media/IP7sarl7C5lSFCw9rG/giphy.gif"  width="100px" height="100px"></p>
 
-<p align="center">
-<img src="https://github-readme-streak-stats-fyclg7hvg-trinib.vercel.app/?user=kreutzi&card_width=500&"></p>
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Kreutzi&card_width=500&show_icons=true"></p>
